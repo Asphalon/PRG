@@ -1,2 +1,1 @@
-Projektidee: Musik Quiz
-Erraten eines Songs an kleinen Abschnitten. Punkte für richtige Antwort. nach bestimmter Anzahl Runden Sieg für den mit mehr Punkten.
+Projektidee: *keine Projektidee*
