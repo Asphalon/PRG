@@ -1,1 +1,3 @@
-Projektidee: *keine Projektidee*
+Projektidee: Quiz für wissenschaftliche und technische Abkürzungen
+multiple choice, 4 möglichkeiten, als reine textausgabe
+kein zeitlimit, keine joker
