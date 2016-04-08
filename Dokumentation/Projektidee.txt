@@ -1,3 +1,14 @@
 Projektidee: Quiz für wissenschaftliche und technische Abkürzungen
-multiple choice, 4 möglichkeiten, als reine textausgabe
-kein zeitlimit, keine joker
+Dieses Projekt beinhaltet ein Multiple Choice Quiz, dessen Inhalt darin besteht, sowohl Wissentschaftliche als auch technische Abkürzungen
+anhand eines Bildes und der genannten Abkürzung zu identifizieren und die richtige Langschreibweise auszuwählen. Dabei ist nur eine von 4
+Auswahlmöglichkeiten korrekt. Der Einsatz von Jokern ist nicht vorgesehn. Ein Beispiel:
+"Welcher Begriff verbirgt sich hinter der Abkürzung: PTFE?"
+richtige Antwort: PolyTetraFluorEthen
+Die Möglichkeiten werden per Maus oder Touchscreen ausgewählt und per Abfrage bestätigt. Ein Zeitlimit ist nicht eingeplant, allerdings
+wird die Zeit zum Beantworten der Frage gestoppt. Die Fragen werden im Laufe von 10 Runden immer schwerer, als Bewertung dient die
+Anzahl der richtigen Antworten, zzgl. noch die benötigte Zeit. Das Grundprinzip ähnelt entfernt der beliebten Quiz-App "Quizduell"
+allerdings ist dieses Quiz wohl einiges komplexer. Die Quizfragen sind zahlreich vorhanden und werden per Zufall ausgewählt. Für jede 
+Schwierigkeit existiert ein eigener Fragen-Pool zzgl Bildern, sodass der Speicherbedarf der App/Spiel wohl etwas größer ausfällt.
+Als Benutzeroberfläche dient ein GUI, das grob in 5 Teile aufgeteilt werden kann. 
+Da diese App die Fragen per Zufallsvariable auswählt, muss der Fragen-Pool recht umfangreich ausfallen, um auch nach mehrmaligem Nutzen
+neue, unbekannte Fragen zu geährleisten. 
