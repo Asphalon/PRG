@@ -101,3 +101,11 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später während 
 
 Viele Grüße,
 Markus Alpers
+
+==========Produktbeschreibung 15.04.16====================
+Ausgangsspiel: Broom Service
+Broom Service ist ein Brettspiel, dessen Ziel es ist, die meisten Punkte zu erhalten. Punkte werden durch Auslieferung von Tränken erhalten.
+Dies geschieht durch geschicktes Ausspielen von anfangs ausgeteilten Karten, die jeweils 2 Möglichkeiten besitzen. Dabei gibt es eine Vielzahl
+unterschiedlichster Regeln, die es zu beachten gilt. Das Spiel ist im Aufbau ziemlich komplex und es dauert eine Weile es zu verstehen.
+Es gibt im großen und ganzen 3 verschiedene RollenKarten, die unterschiedliche Effekte erzielen. Diese wiederrum unterscheiden sich ne nach 
+Spielweise. 
